@@ -1,0 +1,7 @@
+Java Launcher: C:\Users\Riss\Downloads\MCreator.EAP.2022.3.b44708.Windows.64bit\MCreatorEAP20223b44708\jdk\bin\java.exe
+Arguments: '--inJar, C:\Users\Riss\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.1.1\forge-1.19.2-43.1.1-injected.jar, --outJar, C:\Users\Riss\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.1.1_mapped_official_1.19.2\forge-1.19.2-43.1.1_mapped_official_1.19.2.jar, --logFile, accesstransform.log, --atFile, C:\Users\Riss\MCreatorWorkspaces\baboum\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\Riss\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: C:\Users\Riss\MCreatorWorkspaces\baboum\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "warm_ocean",
+    "stony_shore",
+    "lukewarm_ocean",
+    "river"
+  ],
+  "spawners": {
+    "type": "baboum:platypus",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 30
+  }
+}

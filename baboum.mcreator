@@ -1,0 +1,184 @@
+{
+  "mod_elements": [
+    {
+      "name": "Lever",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lever"
+    },
+    {
+      "name": "Chain",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chain"
+    },
+    {
+      "name": "Chain2",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chain_2"
+    },
+    {
+      "name": "Chain3",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chain_3"
+    },
+    {
+      "name": "Chain4",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chain_4"
+    },
+    {
+      "name": "Zoo",
+      "type": "painting",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoo"
+    },
+    {
+      "name": "Newarmor",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "newarmor"
+    },
+    {
+      "name": "Nametag",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nametag"
+    },
+    {
+      "name": "Platypus",
+      "type": "livingentity",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platypus"
+    },
+    {
+      "name": "PlatypusModel",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platypus_model",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Speed",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Renforcedpaper",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "renforcedpaper"
+    },
+    {
+      "name": "Pap",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pap"
+    },
+    {
+      "name": "LAnneaux",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_anneaux"
+    },
+    {
+      "name": "Anneaux",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anneaux"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.newarmor.descr": "Craft chain mail chestplate ",
+      "item.baboum.l_anneaux": "L Anneaux",
+      "entity.baboum.platypus": "Platypus",
+      "item.baboum.platypus_spawn_egg": "Platypus Spawn Egg",
+      "advancements.newarmor.title": "New type of armor",
+      "item.baboum.renforcedpaper": "Renforcedpaper"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "baboum",
+    "modName": "baboum",
+    "version": "1.0.0",
+    "author": "Riss, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.baboum",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200344708
+}
